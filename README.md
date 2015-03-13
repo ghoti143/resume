@@ -74,12 +74,19 @@ I assisted in the creation of a suite of applications that allows the public to 
 
 **Virginia Polytechnic Institute and State University**  
 BS, Computer Engineering, 1999 - 2005  
-Relevant Coursework: OO Software, Differential Equations, Multivariable Calculus, Data Structures, Applied Software Engineering, Statistics, Genetic Algorithms  
-Activities and Societies: New Life Christian Fellowship [nlcf]
+Relevant Coursework: 
+* Object Oriented Software
+* Differential Equations
+* Multivariable Calculus
+* Data Structures
+* Applied Software Engineering
+* Statistics
+* Genetic Algorithms  
+Activities: New Life Christian Fellowship [nlcf]
 
 **Fork Union Military Academy**  
 1997 - 1999  
-Activities and Societies: Journalism, Orienteering, Debate Team
+Activities: Journalism, Orienteering, Debate Team
 
 ## Recommendations
 
