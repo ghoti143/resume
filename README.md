@@ -91,7 +91,6 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 
 ## Recommendations
 
-### Erika Murray, managed Michael indirectly
 > Michael and I work together at Corvesta Inc where he was a Senior Software Engineer. He jumped right
 > in when he first came on board to help with efforts of converting our legacy system to a web platform using
 > MVC, C# and Oracle. He is always goes above and beyond to learn new things and to help others learn as
@@ -99,7 +98,8 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > and existing technology. He was also on my Innovation Team where he spent his own personal time learning
 > about new web technologies to help bring value to the team. He would bring value to any team he was on.
 
-### Dave Overstrom, Technical Architect, Geographic Information Services, Inc., managed Michael at Geographic Information Services, Inc.
+-- Erika Murray, managed Michael indirectly
+
 > For the past year, I have had the fortunate opportunity to work with Mike on the Army Mapper application
 > at GISinc. Mike's professionalism, work ethic, strong communication skills, and ability to learn and apply
 > new technologies has made him an invaluable asset to the team. It has been refreshing to work with someone
@@ -108,7 +108,8 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > Mike can handle all aspects of web application development. It is always a pleasure to work with and learn
 > from Mike, and I look forward to continuing to develop premier applications with him in the future!
 
-### Shannon Carr, Owner, SiteVision, Inc, managed Michael at SiteVision, Inc.
+-- Dave Overstrom, Technical Architect, Geographic Information Services, Inc., managed Michael at Geographic Information Services, Inc.
+
 > It is an honor to write this letter of recommendation for Mr. Michael Haggerty. Mike started with SiteVision,
 > Inc. in May of 2007 as a web application developer. Mike was the lead developer on some of our most
 > complex applications. I always looked forward to seeing the progress he was making because he often
@@ -120,7 +121,10 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > recommend Michael for any position he might aspire to. Mike's enthusiasm and work ethic will make him a
 > great asset for any organization he seeks to become a part of.
 
-### Jeremiah Lewis, Freelancer, Fringe Design, worked directly with Michael at SiteVision, Inc.
+-- Shannon Carr, Owner, SiteVision, Inc, managed Michael at SiteVision, Inc.
+
 > Michael spurred me to excel in my own work when he delivered well-developed and code for me to design
 > a graphical UI around. Michael is an excellent communicator, is adept at software engineering, and is a
 > pleasure to work with on all phases of a project.
+
+-- Jeremiah Lewis, Freelancer, Fringe Design, worked directly with Michael at SiteVision, Inc.
