@@ -19,38 +19,33 @@ I am a Software Engineer focused mainly on web technologies. The engineer in me 
 ## Experience
 
 ### Senior Software Engineer at Corvesta Inc.
-September 2012 - Present
-
+September 2012 - Present  
 Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In this position I have also mentored an intern, lead classes on design patterns, researched emerging database technologies, and contributed to AngularJS.
 
 ### Senior GIS Developer at Geographic Information Services, Inc.
-July 2009 - September 2012
-
+July 2009 - September 2012  
 Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS.
 
 ### Web Application Developer at SiteVision, Inc.
-May 2007 - July 2009
-
+May 2007 - July 2009  
 Complete end to end application development: requirements gathering, database structure and design, UI design, coding, QA and testing. Developed custom web applications for Anthem, Virginia Healthcare and Hospital Association, and the International Missions Board using ColdFusion, jQuery, and MS SQL.
 
 ### Process Engineer at Dynax America Corporation
-August 2006 - May 2007
-
+August 2006 - May 2007  
 My first full time job gave me an appreciation for the complexities of a manufactoring environment and exposed me to Japanese process techniques such as 5S and Kaizen.
 
 ### Web Application Developer at Pulp Software
-January 2006 - May 2006
-
+January 2006 - May 2006  
 I cut my web development teeth working at a two man start-up. Learned ArcGIS and honed my C# and JavaScript skills.
 
 ## Public Projects
 
 ### Delta Dental of Virginia
-http://www.deltadentalva.com
+http://www.deltadentalva.com  
 I assist in the maintenance and continued evolution of the Delta Dental of VA website.  The website provides self service access for subscribers, providers, group administrators, and brokers.  The web application is ASP.NET MVC and the database tier is Oracle PL/SQL.
 
 ### ANC Explorer
-http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave
+http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave  
 I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 
 ## Skills & Expertise
@@ -80,13 +75,12 @@ I assisted in the creation of a suite of applications that allows the public to 
 ## Education
 
 ### Virginia Polytechnic Institute and State University
-BS, Computer Engineering, 1999 - 2005
-
+BS, Computer Engineering, 1999 - 2005  
+Relevant Coursework: OO Software, Differential Equations, Multivariable Calculus, Data Structures, Applied Software Engineering, Statistics, Genetic Algorithms  
 Activities and Societies: New Life Christian Fellowship [nlcf]
 
 ### Fork Union Military Academy
-1997 - 1999
-
+1997 - 1999  
 Activities and Societies: Journalism, Orienteering, Debate Team
 
 ## Recommendations
@@ -96,8 +90,7 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > MVC, C# and Oracle. He is always goes above and beyond to learn new things and to help others learn as
 > well. Mike pioneered the efforts on our weekly lunch and learn sessions, where were shared insights on new
 > and existing technology. He was also on my Innovation Team where he spent his own personal time learning
-> about new web technologies to help bring value to the team. He would bring value to any team he was on.
-
+> about new web technologies to help bring value to the team. He would bring value to any team he was on.  
 -- Erika Murray, Team Lead, Corvesta, Inc., managed Michael indirectly at Corvesta, Inc.
 
 > For the past year, I have had the fortunate opportunity to work with Mike on the Army Mapper application
@@ -106,8 +99,7 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > who not only strives to find the best solutions to difficult problems, but also motivates others to excel as well.
 > Whether it is writing a custom web service, working on front end UI design, or developing stored procedures,
 > Mike can handle all aspects of web application development. It is always a pleasure to work with and learn
-> from Mike, and I look forward to continuing to develop premier applications with him in the future!
-
+> from Mike, and I look forward to continuing to develop premier applications with him in the future!  
 -- Dave Overstrom, Technical Architect, Geographic Information Services, Inc., managed Michael at Geographic Information Services, Inc.
 
 > It is an honor to write this letter of recommendation for Mr. Michael Haggerty. Mike started with SiteVision,
@@ -119,12 +111,10 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > excellent communicator. He often worked with me and the client from the concept phase of an application
 > to final delivery. I have no problem letting him work directly with any of our clients. I would not hesitate to
 > recommend Michael for any position he might aspire to. Mike's enthusiasm and work ethic will make him a
-> great asset for any organization he seeks to become a part of.
-
+> great asset for any organization he seeks to become a part of.  
 -- Shannon Carr, Owner, SiteVision, Inc, managed Michael at SiteVision, Inc.
 
 > Michael spurred me to excel in my own work when he delivered well-developed and code for me to design
 > a graphical UI around. Michael is an excellent communicator, is adept at software engineering, and is a
-> pleasure to work with on all phases of a project.
-
+> pleasure to work with on all phases of a project.  
 -- Jeremiah Lewis, Freelancer, Fringe Design, worked directly with Michael at SiteVision, Inc.
