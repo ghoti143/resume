@@ -10,9 +10,9 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 ```
 <alphabet-soup> 
-  C#, JavaScript, Python, PL/SQL,
-  HTML, CSS, .NET MVC, AngularJS, Node.js, Service Stack, 
-  Oracle, Mongo, MS SQL, Redis, PostgreSQL
+  C#, JavaScript, Python, PL/SQL
+  HTML, CSS, .NET MVC, AngularJS, Node.js
+  Oracle, Mongo, MS SQL, Redis
 </alphabet-soup>
 ```
 
@@ -20,7 +20,7 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 **Senior Software Engineer at Corvesta Inc.**  
 September 2012 - Present  
-Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In this position I have also mentored an intern, led classes on design patterns, researched emerging database technologies, and contributed to the open source AngularJS project.
+Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
@@ -51,25 +51,23 @@ I assisted in the creation of a suite of applications that allows the public to 
 ## Skills
 * JavaScript
 * C#
-* Microsoft SQL Server
-* .NET
-* CSS
-* SQL
-* MySQL
-* Databases
-* Python
-* ASP.NET MVC
 * HTML
+* CSS
+* Node.js
+* AngularJS
+* Python
+* Service Stack
+* ASP.NET MVC
 * ArcGIS Server
 * ActionScript
 * Visual Studio
-* Software Engineering
 * ESRI Flex API
 * ArcGIS
-* PL/SQL
+* Microsoft SQL Server
+* Oracle PL/SQL
 * MongoDB
-* Node.js
-* AngularJS
+* Redis
+* PostgreSQL
 * RESTful WebServices
 
 ## Education
