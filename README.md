@@ -8,36 +8,40 @@ haggertymp@gmail.com
 ## Summary
 I am a Software Engineer focused mainly on web technologies. The engineer in me strives for continuous improvement. I enjoy reading, hiking, and cooking. 
 
-    <alphabet-soup> 
-    C#, JavaScript, Python, PL/SQL,
-    HTML, CSS, .NET MVC, AngularJS, Node.js, Service Stack, 
-    Oracle, Mongo, MS SQL, Redis, PostgreSQL
-    </alphabet-soup>
+```
+<alphabet-soup> 
+  C#, JavaScript, Python, PL/SQL,
+  HTML, CSS, .NET MVC, AngularJS, Node.js, Service Stack, 
+  Oracle, Mongo, MS SQL, Redis, PostgreSQL
+</alphabet-soup>
+```
 
 ## Experience
 
 ### Senior Software Engineer at Corvesta Inc.
-September 2012 - Present (2 years 7 months)
+September 2012 - Present
+
 Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In this position I have also mentored an intern, lead classes on design patterns, researched emerging database technologies, and contributed to AngularJS.
 
 ### Senior GIS Developer at Geographic Information Services, Inc.
-July 2009 - September 2012 (3 years 3 months)
+July 2009 - September 2012
+
 Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS.
 
 ### Web Application Developer at SiteVision, Inc.
-May 2007 - July 2009 (2 years 3 months)
-Complete end to end application development: requirements gathering, database structure and design, UI
-design, coding, QA and testing. Developed custom web applications for Anthem, Virginia Healthcare and
-Hospital Association, and the International Missions Board using ColdFusion, jQuery, and MS SQL.
+May 2007 - July 2009
+
+Complete end to end application development: requirements gathering, database structure and design, UI design, coding, QA and testing. Developed custom web applications for Anthem, Virginia Healthcare and Hospital Association, and the International Missions Board using ColdFusion, jQuery, and MS SQL.
 
 ### Process Engineer at Dynax America Corporation
-August 2006 - May 2007 (10 months)
+August 2006 - May 2007
+
 My first full time job gave me an appreciation for the complexities of a manufactoring environment and exposed me to Japanese process techniques such as 5S and Kaizen.
 
 ### Web Application Developer at Pulp Software
-January 2006 - May 2006 (5 months)
-Cut my web development teeth working at a two man start-up. Learned ArcGIS and honed my C# and
-JavaScript skills.
+January 2006 - May 2006
+
+I cut my web development teeth working at a two man start-up. Learned ArcGIS and honed my C# and JavaScript skills.
 
 ## Public Projects
 
@@ -47,9 +51,7 @@ I assist in the maintenance and continued evolution of the Delta Dental of VA we
 
 ### ANC Explorer
 http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave
-I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington
-National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI
-ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
+I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 
 ## Skills & Expertise
 * JavaScript
@@ -78,10 +80,12 @@ ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 ## Education
 Virginia Polytechnic Institute and State University
 BS, Computer Engineering, 1999 - 2005
+
 Activities and Societies: New Life Christian Fellowship [nlcf]
 
 Fork Union Military Academy
 1997 - 1999
+
 Activities and Societies: Journalism, Orienteering, Debate Team
 
 > Michael and I work together at Corvesta Inc where he was a Senior Software Engineer. He jumped right
@@ -90,6 +94,7 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > well. Mike pioneered the efforts on our weekly lunch and learn sessions, where were shared insights on new
 > and existing technology. He was also on my Innovation Team where he spent his own personal time learning
 > about new web technologies to help bring value to the team. He would bring value to any team he was on.
+
 -- Erika Murray, managed Michael indirectly
 
 
@@ -100,8 +105,8 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > Whether it is writing a custom web service, working on front end UI design, or developing stored procedures,
 > Mike can handle all aspects of web application development. It is always a pleasure to work with and learn
 > from Mike, and I look forward to continuing to develop premier applications with him in the future!
--- Dave Overstrom, Technical Architect, Geographic Information Services, Inc., managed Michael at Geographic Information Services, Inc.
 
+-- Dave Overstrom, Technical Architect, Geographic Information Services, Inc., managed Michael at Geographic Information Services, Inc.
 
 > It is an honor to write this letter of recommendation for Mr. Michael Haggerty. Mike started with SiteVision,
 > Inc. in May of 2007 as a web application developer. Mike was the lead developer on some of our most
@@ -113,9 +118,11 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > to final delivery. I have no problem letting him work directly with any of our clients. I would not hesitate to
 > recommend Michael for any position he might aspire to. Mike's enthusiasm and work ethic will make him a
 > great asset for any organization he seeks to become a part of.
+
 -- Shannon Carr, Owner, SiteVision, Inc, managed Michael at SiteVision, Inc.
 
 > Michael spurred me to excel in my own work when he delivered well-developed and code for me to design
 > a graphical UI around. Michael is an excellent communicator, is adept at software engineering, and is a
 > pleasure to work with on all phases of a project.
+
 -- Jeremiah Lewis, Freelancer, Fringe Design, worked directly with Michael at SiteVision, Inc.
