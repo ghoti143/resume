@@ -18,33 +18,33 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 ## Experience
 
-### Senior Software Engineer at Corvesta Inc.
+**Senior Software Engineer at Corvesta Inc.**  
 September 2012 - Present  
 Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In this position I have also mentored an intern, led classes on design patterns, researched emerging database technologies, and contributed to the open source AngularJS project.
 
-### Senior GIS Developer at Geographic Information Services, Inc.
+**Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
 Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS.
 
-### Web Application Developer at SiteVision, Inc.
+**Web Application Developer at SiteVision, Inc.**  
 May 2007 - July 2009  
 Complete end to end application development: requirements gathering, database structure and design, UI design, coding, QA and testing. Developed custom web applications for Anthem, Virginia Healthcare and Hospital Association, and the International Missions Board using ColdFusion, jQuery, and MS SQL.
 
-### Process Engineer at Dynax America Corporation
+**Process Engineer at Dynax America Corporation**  
 August 2006 - May 2007  
 My first full time job gave me an appreciation for the complexities of a manufactoring environment and exposed me to Japanese process techniques such as 5S and Kaizen.
 
-### Web Application Developer at Pulp Software
+**Web Application Developer at Pulp Software**  
 January 2006 - May 2006  
 I cut my web development teeth working at a two man start-up. Learned ArcGIS and honed my C# and JavaScript skills.
 
 ## Public Projects
 
-### Delta Dental of Virginia
+**Delta Dental of Virginia**  
 http://www.deltadentalva.com  
 I assist in the maintenance and continued evolution of the Delta Dental of VA website.  The website provides self service access for subscribers, providers, group administrators, and brokers.  The web application is ASP.NET MVC and the database tier is Oracle PL/SQL.
 
-### ANC Explorer
+**ANC Explorer**  
 http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave  
 I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 
@@ -74,12 +74,12 @@ I assisted in the creation of a suite of applications that allows the public to 
 
 ## Education
 
-### Virginia Polytechnic Institute and State University
+**Virginia Polytechnic Institute and State University**  
 BS, Computer Engineering, 1999 - 2005  
 Relevant Coursework: OO Software, Differential Equations, Multivariable Calculus, Data Structures, Applied Software Engineering, Statistics, Genetic Algorithms  
 Activities and Societies: New Life Christian Fellowship [nlcf]
 
-### Fork Union Military Academy
+**Fork Union Military Academy**  
 1997 - 1999  
 Activities and Societies: Journalism, Orienteering, Debate Team
 
