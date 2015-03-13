@@ -1,8 +1,8 @@
 *This resume is in markdown format.  View at http://github.com/ghoti143/resume*
 
 # Michael Haggerty
-**Senior Software Engineer at Corvesta, Inc.**
-haggertymp@gmail.com
+**Senior Software Engineer at Corvesta, Inc.**  
+haggertymp@gmail.com  
 540-613-3166
 
 ## Summary
