@@ -42,7 +42,7 @@ I cut my web development teeth working at a two man start-up. Learned ArcGIS and
 
 **Delta Dental of Virginia**  
 http://www.deltadentalva.com  
-I assist in the maintenance and continued evolution of the Delta Dental of VA website.  The website provides self service access for subscribers, providers, group administrators, and brokers.  The web application is ASP.NET MVC and the database tier is Oracle PL/SQL.
+I assist in the maintenance and continued evolution of the Delta Dental of VA website.  The website provides self service access for subscribers, providers, group administrators, and brokers.  The web application is created with ASP.NET MVC and the database tier is written in Oracle PL/SQL.
 
 **ANC Explorer**  
 http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave  
