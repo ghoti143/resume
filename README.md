@@ -2,8 +2,8 @@
 
 # Michael Haggerty
 **Senior Software Engineer at Corvesta, Inc.**
-* haggertymp@gmail.com
-* 540-613-3166
+haggertymp@gmail.com
+540-613-3166
 
 ## Summary
 I am a Software Engineer focused mainly on web technologies. The engineer in me strives for continuous improvement. I enjoy reading, hiking, and cooking. 
