@@ -1,4 +1,4 @@
-*This resume is in markdown format.  View at http://github.com/ghoti143/resume.*
+*This resume is in markdown format.  View a [live version](http://github.com/ghoti143/resume).*
 
 # Michael Haggerty
 **Senior Software Engineer at Corvesta, Inc.**  
