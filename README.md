@@ -98,7 +98,7 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > and existing technology. He was also on my Innovation Team where he spent his own personal time learning
 > about new web technologies to help bring value to the team. He would bring value to any team he was on.
 
--- Erika Murray, managed Michael indirectly
+-- Erika Murray, Team Lead, Corvesta, Inc., managed Michael indirectly at Corvesta, Inc.
 
 > For the past year, I have had the fortunate opportunity to work with Mike on the Army Mapper application
 > at GISinc. Mike's professionalism, work ethic, strong communication skills, and ability to learn and apply
