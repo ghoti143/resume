@@ -1,4 +1,4 @@
-*This resume is in markdown format.  View at http://github.com/ghoti143/resume*
+*This resume is in markdown format.  View at http://github.com/ghoti143/resume.*
 
 # Michael Haggerty
 **Senior Software Engineer at Corvesta, Inc.**  
@@ -48,7 +48,7 @@ I assist in the maintenance and continued evolution of the Delta Dental of VA we
 http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave  
 I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 
-## Skills & Expertise
+## Skills
 * JavaScript
 * C#
 * Microsoft SQL Server
