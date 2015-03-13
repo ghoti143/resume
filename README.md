@@ -20,7 +20,7 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 ### Senior Software Engineer at Corvesta Inc.
 September 2012 - Present  
-Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In this position I have also mentored an intern, lead classes on design patterns, researched emerging database technologies, and contributed to AngularJS.
+Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In this position I have also mentored an intern, led classes on design patterns, researched emerging database technologies, and contributed to the open source AngularJS project.
 
 ### Senior GIS Developer at Geographic Information Services, Inc.
 July 2009 - September 2012  
