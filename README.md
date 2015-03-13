@@ -6,7 +6,7 @@ haggertymp@gmail.com
 540-613-3166
 
 ## Summary
-I am a Software Engineer focused mainly on web technologies. The engineer in me strives for continuous improvement. I enjoy reading, hiking, and cooking. 
+I am a Software Engineer focused mainly on web technologies. The software developer in me delights in elegant code.  The engineer in me strives for structure and continuous improvement. I enjoy reading, hiking, and cooking.
 
 ```
 <alphabet-soup> 
