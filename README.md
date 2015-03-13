@@ -90,7 +90,8 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > MVC, C# and Oracle. He is always goes above and beyond to learn new things and to help others learn as
 > well. Mike pioneered the efforts on our weekly lunch and learn sessions, where were shared insights on new
 > and existing technology. He was also on my Innovation Team where he spent his own personal time learning
-> about new web technologies to help bring value to the team. He would bring value to any team he was on.  
+> about new web technologies to help bring value to the team. He would bring value to any team he was on.
+
 -- Erika Murray, Team Lead, Corvesta, Inc., managed Michael indirectly at Corvesta, Inc.
 
 > For the past year, I have had the fortunate opportunity to work with Mike on the Army Mapper application
@@ -99,7 +100,8 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > who not only strives to find the best solutions to difficult problems, but also motivates others to excel as well.
 > Whether it is writing a custom web service, working on front end UI design, or developing stored procedures,
 > Mike can handle all aspects of web application development. It is always a pleasure to work with and learn
-> from Mike, and I look forward to continuing to develop premier applications with him in the future!  
+> from Mike, and I look forward to continuing to develop premier applications with him in the future!
+
 -- Dave Overstrom, Technical Architect, Geographic Information Services, Inc., managed Michael at Geographic Information Services, Inc.
 
 > It is an honor to write this letter of recommendation for Mr. Michael Haggerty. Mike started with SiteVision,
@@ -111,10 +113,12 @@ Activities and Societies: Journalism, Orienteering, Debate Team
 > excellent communicator. He often worked with me and the client from the concept phase of an application
 > to final delivery. I have no problem letting him work directly with any of our clients. I would not hesitate to
 > recommend Michael for any position he might aspire to. Mike's enthusiasm and work ethic will make him a
-> great asset for any organization he seeks to become a part of.  
+> great asset for any organization he seeks to become a part of.
+
 -- Shannon Carr, Owner, SiteVision, Inc, managed Michael at SiteVision, Inc.
 
 > Michael spurred me to excel in my own work when he delivered well-developed and code for me to design
 > a graphical UI around. Michael is an excellent communicator, is adept at software engineering, and is a
-> pleasure to work with on all phases of a project.  
+> pleasure to work with on all phases of a project.
+
 -- Jeremiah Lewis, Freelancer, Fringe Design, worked directly with Michael at SiteVision, Inc.
