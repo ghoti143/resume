@@ -18,7 +18,7 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 ## Experience
 
-**Senior Software Engineer at GE Digital.**  
+**Senior Software Engineer at GE Digital**  
 April 2015 - Present  
 Developing features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  Utilizing Docker containerization to provide consistent development environments.
 
