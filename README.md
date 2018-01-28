@@ -23,7 +23,7 @@ April 2015 - Present
 Developing features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  Utilizing Docker containerization to provide consistent development environments.
 
 **Senior Software Engineer at Corvesta Inc.**  
-September 2012 - April 2015
+September 2012 - April 2015  
 Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
