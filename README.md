@@ -1,7 +1,7 @@
 *This resume is in markdown format.  View a [live version](http://github.com/ghoti143/resume).*
 
 # Michael Haggerty
-**Senior Software Engineer at Corvesta, Inc.**  
+**Senior Software Engineer at GE Digital**  
 haggertymp@gmail.com  
 540-613-3166
 
@@ -18,8 +18,12 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 ## Experience
 
+**Senior Software Engineer at GE Digital.**  
+April 2015 - Present  
+Developing features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  Utilizing Docker containerization to provide consistent development environments.
+
 **Senior Software Engineer at Corvesta Inc.**  
-September 2012 - Present  
+September 2012 - April 2015
 Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
@@ -49,36 +53,21 @@ http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave
 I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 
 ## Skills
-* JavaScript
-* C#
-* HTML
-* CSS
-* Node.js
-* AngularJS
-* Python
-* Service Stack
-* ASP.NET MVC
-* ArcGIS Server
-* ActionScript
-* Visual Studio
-* ESRI Flex API
-* ArcGIS
-* Microsoft SQL Server
-* Oracle PL/SQL
-* MongoDB
-* Redis
-* PostgreSQL
+* JavaScript, React, AngularJS
+* C#, Node.js, Python, ASP.NET MVC
+* HTML, CSS
+* Microsoft SQL Server, Oracle PL/SQL, MongoDB, Redis, PostgreSQL
 * RESTful WebServices
 
 ## Education
 
 **Virginia Polytechnic Institute and State University**  
-BS, Computer Engineering, 1999 - 2005  
+BS, Computer Engineering, 2005  
 Relevant Coursework: Object Oriented Software, Differential Equations, Multivariable Calculus, Data Structures, Applied Software Engineering, Statistics, Genetic Algorithms  
 Activities: New Life Christian Fellowship [nlcf]
 
 **Fork Union Military Academy**  
-1997 - 1999  
+Advanced Diploma, 1999  
 Activities: Journalism, Orienteering, Debate Team
 
 ## Recommendations
