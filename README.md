@@ -10,7 +10,7 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 
 ```
 <alphabet-soup> 
-  C#, JavaScript, Python, PL/SQL
+  C#, JavaScript, React, Python, PL/SQL
   HTML, CSS, .NET MVC, AngularJS, Node.js
   Oracle, Mongo, MS SQL, Redis
 </alphabet-soup>
