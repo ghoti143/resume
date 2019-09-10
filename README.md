@@ -46,6 +46,7 @@ I cut my web development teeth working at a two man start-up. Learned ArcGIS and
 
 **EOS Charge**  
 https://www.eoscharge.io
+
 I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
 
 **Delta Dental of Virginia**  
