@@ -1,46 +1,47 @@
 *This resume is in markdown format.  View a [live version](http://github.com/ghoti143/resume).*
 
 # Michael Haggerty
-**Senior Software Engineer at GE Digital**  
+**Staff Software Engineer at GE Digital**  
 haggertymp@gmail.com  
 540-613-3166
 
 ## Summary
 I am a Software Engineer focused mainly on web technologies. The software developer in me delights in elegant code.  The engineer in me strives for structure and continuous improvement. I enjoy reading, hiking, and cooking.
 
-```
-<alphabet-soup> 
-  C#, JavaScript, React, Python, PL/SQL
-  HTML, CSS, .NET MVC, AngularJS, Node.js
-  Oracle, Mongo, MS SQL, Redis
-</alphabet-soup>
-```
-
 ## Experience
 
-**Senior Software Engineer at GE Digital**  
+**Staff Software Engineer at GE Digital**  
 April 2015 - Present  
-Developing features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  Utilizing Docker containerization to provide consistent development environments.
+* Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  
+* Utilized Docker containerization to provide consistent development environments.
+* TypeScript UI automation testing w selenium 
+* lead team to transition from TfS SCM and build tools to GitHub and Jenkins
+* sass
+* service oriented architecture (?)
+
+Consultant at EOS New York
+Dates?
+* aws web services, lambda
+* docker containers
+* mongodb
+* react eos io
+* blockchain
+* es6
+* cssjs 
+* recording training videos https://youtu.be/G1GUpjc5hkw
 
 **Senior Software Engineer at Corvesta Inc.**  
 September 2012 - April 2015  
-Porting a custom suite of applications from VB6 to ASP.NET MVC4. Full stack support on legacy code written in PL/SQL, VB6 and C#. In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
+* Porting a custom suite of applications from VB6 to ASP.NET MVC4. 
+* Full stack support on legacy code written in PL/SQL, VB6 and C#. 
+* In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
+* taught training sessions on express, nodejs, design patterns
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
-Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS.
-
-**Web Application Developer at SiteVision, Inc.**  
-May 2007 - July 2009  
-Complete end to end application development: requirements gathering, database structure and design, UI design, coding, QA and testing. Developed custom web applications for Anthem, Virginia Healthcare and Hospital Association, and the International Missions Board using ColdFusion, jQuery, and MS SQL.
-
-**Process Engineer at Dynax America Corporation**  
-August 2006 - May 2007  
-My first full time job gave me an appreciation for the complexities of a manufactoring environment and exposed me to Japanese process techniques such as 5S and Kaizen.
-
-**Web Application Developer at Pulp Software**  
-January 2006 - May 2006  
-I cut my web development teeth working at a two man start-up. Learned ArcGIS and honed my C# and JavaScript skills.
+* Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. 
+* Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS.
+* python geoprocessor for Arcgis server
 
 ## Public Projects
 
@@ -68,11 +69,6 @@ I assisted in the creation of a suite of applications that allows the public to 
 **Virginia Polytechnic Institute and State University**  
 BS, Computer Engineering, 2005  
 Relevant Coursework: Object Oriented Software, Differential Equations, Multivariable Calculus, Data Structures, Applied Software Engineering, Statistics, Genetic Algorithms  
-Activities: New Life Christian Fellowship [nlcf]
-
-**Fork Union Military Academy**  
-Advanced Diploma, 1999  
-Activities: Journalism, Orienteering, Debate Team
 
 ## Recommendations
 
