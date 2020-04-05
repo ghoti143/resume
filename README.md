@@ -35,7 +35,7 @@ September 2012 - April 2015
 * Porting a custom suite of applications from VB6 to ASP.NET MVC4. 
 * Full stack support on legacy code written in PL/SQL, VB6 and C#. 
 * In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
-* taught training sessions on express, nodejs, design patterns
+* taught training sessions on Express, Node.js, and design patterns
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
@@ -50,12 +50,8 @@ https://www.eoscharge.io
 I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
 
 **EOS Training Video**
-youtube link
+https://www.youtube.com/watch?v=MI3Me73fJsE
 I created a training video to assist EOS account holders with securely generating an EOS key pair using official EOS.IO code.
-
-**Delta Dental of Virginia**  
-http://www.deltadentalva.com  
-I assisted in the maintenance and continued evolution of the Delta Dental of VA website.  The website provides self service access for subscribers, providers, group administrators, and brokers.  The web application is created with ASP.NET MVC and the database tier is written in Oracle PL/SQL.
 
 **ANC Explorer**  
 http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave  
