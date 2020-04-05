@@ -13,18 +13,20 @@ I am a Software Engineer focused mainly on web technologies. The software develo
 **Staff Software Engineer at GE Digital**  
 April 2015 - Present  
 * Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  
-* Utilized Docker containerization to provide consistent development environments.
-* TypeScript UI automation testing w selenium 
+* built RESTful APIs using C# and .NET Core
+* Utilized Docker containerization to provide consistent development environments
+* built UI automation tests using TypeScript and Protractor. 
 * lead team to transition from TfS SCM and build tools to GitHub and Jenkins
-* sass
-* service oriented architecture (?)
+* implemented wireframes and designs using html5 and sass
+* mentored junior developers through code reviews and promoting best practices
+* developed processing and execution services focused on scalability and performance
 
 Consultant at EOS New York
 Dates?
-* aws web services, lambda
-* docker containers
-* mongodb
-* react eos io
+* stood up a test network using aws web services
+* used docker containers to reduce spin up time of new servers
+* used mongodb queries to glean meaninful information from large data set
+* built a react eos io
 * blockchain
 * es6
 * cssjs 
