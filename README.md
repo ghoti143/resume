@@ -21,16 +21,14 @@ April 2015 - Present
 * mentored junior developers through code reviews and promoting best practices
 * developed processing and execution services focused on scalability and performance
 
-Consultant at EOS New York
-Dates?
+**Consultant at EOS New York**
+March 2018 - December 2018
 * stood up a test network using aws web services
 * used docker containers to reduce spin up time of new servers
 * used mongodb queries to glean meaninful information from large data set
-* built a react eos io
-* blockchain
-* es6
-* cssjs 
-* recording training videos https://youtu.be/G1GUpjc5hkw
+* built a webapp using ReactJS, ES6, and JSS (CSSinJS)
+* learned about blockchain fundamentals
+* recorded a training video and engaged the community by answering technical questions
 
 **Senior Software Engineer at Corvesta Inc.**  
 September 2012 - April 2015  
@@ -42,14 +40,18 @@ September 2012 - April 2015
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
 * Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. 
-* Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS.
-* python geoprocessor for Arcgis server
+* Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS Server
+* created Python based geoprocessing tools for ArcGIS Server
 
 ## Public Projects
 
 **EOS Charge**  
 https://www.eoscharge.io  
 I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
+
+**EOS Training Video**
+youtube link
+I created a training video to assist EOS account holders with securely generating an EOS key pair using official EOS.IO code.
 
 **Delta Dental of Virginia**  
 http://www.deltadentalva.com  
