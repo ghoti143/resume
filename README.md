@@ -46,7 +46,7 @@ July 2009 - September 2012
 ## Public Projects
 
 **EOS Charge**  
-https://www.eoscharge.io  
+https://ghoti143.github.io/eoscharge/  
 I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
 
 **EOS Training Video**
