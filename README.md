@@ -49,7 +49,7 @@ July 2009 - September 2012
 https://ghoti143.github.io/eoscharge/  
 I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
 
-**EOS Training Video**
+**EOS Training Video**  
 https://www.youtube.com/watch?v=MI3Me73fJsE
 I created a training video to assist EOS account holders with securely generating an EOS key pair using official EOS.IO code.
 
