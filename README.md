@@ -13,18 +13,18 @@ I am a Software Engineer focused mainly on web technologies. The artist in me de
 **Staff Software Engineer at GE Digital**  
 April 2015 - Present  
 * Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices
-* Built RESTful APIs using C# and .NET Core
-* Built and maintained components written in a mixture of JavaScript, TypeScript, Knockout and React
-* Utilized Docker containerization to provide consistent development environments
-* Built UI automation tests using TypeScript and Protractor
-* Led a team which transitioned from TFS SCM and build tools to GitHub and Jenkins
-* Implemented wireframes and designs using HTML5 and SASS
+* Built **RESTful APIs** using **C#** and **.NET Core**
+* Built and maintained components written in a mixture of **JavaScript**, TypeScript, Knockout and **React**
+* Utilized **Docker** containerization to provide consistent development environments
+* Built UI automation tests using **TypeScript** and **Protractor**
+* Led a team which transitioned from TFS SCM and build tools to **GitHub** and **Jenkins**
+* Implemented wireframes and designs using **HTML5** and **SASS**
 * Mentored junior developers through code reviews and promoting best practices
 * Developed processing and execution services focused on scalability and performance
 
 **Consultant at EOS New York**
 March 2018 - December 2018
-* Stood up a test network using AWS
+* Stood up a test network using **AWS**
 * Utilized docker containers to reduce spin up time of new servers
 * Wrote mongodb queries to glean meaningful information from a large data set
 * Built a webapp using ReactJS, ES6, and JSS (CSSinJS)
@@ -33,10 +33,12 @@ March 2018 - December 2018
 
 **Senior Software Engineer at Corvesta Inc.**  
 September 2012 - April 2015  
-* Porting a custom suite of applications from VB6 to ASP.NET MVC4. 
-* Full stack support on legacy code written in PL/SQL, VB6 and C#. 
-* In addition to my core responsibilities, I mentored an intern, led classes on design patterns, researched emerging JavaScript frameworks, and contributed to the open source AngularJS project.
-* taught training sessions on Express, Node.js, and design patterns
+* Ported a custom suite of applications from VB6 to ASP.NET MVC4. 
+* Supported legacy codebase written in PL/SQL, VB6 and C#. 
+* Researched emerging JavaScript frameworks
+* Contributed to the open source AngularJS project.
+* Taught training sessions on Express, Node.js, and design patterns
+* Mentored an intern
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
@@ -47,20 +49,13 @@ July 2009 - September 2012
 ## Public Projects
 
 **[EOS Charge](https://ghoti143.github.io/eoscharge/)**  
-I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
+I created a tool that queried data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
 
 **[EOS Training Video](https://www.youtube.com/watch?v=MI3Me73fJsE)**  
-I created a training video to assist EOS account holders with securely generating an EOS key pair using official EOS.IO code.
+I created a training video to assist EOS account holders with securely generating a key pair for their EOS account.
 
 **[ANC Explorer](http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave)**  
 I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
-
-## Skills
-* JavaScript, React, AngularJS
-* C#, Node.js, Python, ASP.NET MVC
-* HTML, CSS
-* Microsoft SQL Server, Oracle PL/SQL, MongoDB, Redis, PostgreSQL
-* RESTful WebServices
 
 ## Education
 
