@@ -72,7 +72,7 @@ Relevant Coursework: Object Oriented Software, Differential Equations, Multivari
 
 ## Recommendations
 
-> Michael and I work together at Corvesta Inc where he was a Senior Software Engineer. He jumped right
+> Michael and I work together at Corvesta Inc. where he was a Senior Software Engineer. He jumped right
 > in when he first came on board to help with efforts of converting our legacy system to a web platform using
 > MVC, C# and Oracle. He is always goes above and beyond to learn new things and to help others learn as
 > well. Mike pioneered the efforts on our weekly lunch and learn sessions, where were shared insights on new
