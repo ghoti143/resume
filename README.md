@@ -1,4 +1,4 @@
-*This resume is in markdown format.  View a [live version](http://ghoti143.github.io/resume/).*
+*This resume is in markdown format.  View a [live version](http://ghoti143.github.io/resume/). View [the source](https://github.com/ghoti143/resume/README.md).*
 
 # Michael Haggerty
 **Staff Software Engineer at GE Digital**  
@@ -6,29 +6,30 @@ haggertymp@gmail.com
 540-613-3166
 
 ## Summary
-I am a Software Engineer focused mainly on web technologies. The software developer in me delights in elegant code.  The engineer in me strives for structure and continuous improvement. I enjoy reading, hiking, and cooking.
+I am a Software Engineer focused mainly on web technologies. The artist in me delights in elegant code and beautifully simple design.  The engineer in me strives for good performance and continuous improvement. I enjoy spending time with my family, good coffee, and good books.
 
 ## Experience
 
 **Staff Software Engineer at GE Digital**  
 April 2015 - Present  
-* Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices.  
-* built RESTful APIs using C# and .NET Core
+* Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices
+* Built RESTful APIs using C# and .NET Core
+* Built and maintained components written in a mixture of JavaScript, TypeScript, Knockout and React
 * Utilized Docker containerization to provide consistent development environments
-* built UI automation tests using TypeScript and Protractor. 
-* lead team to transition from TfS SCM and build tools to GitHub and Jenkins
-* implemented wireframes and designs using html5 and sass
-* mentored junior developers through code reviews and promoting best practices
-* developed processing and execution services focused on scalability and performance
+* Built UI automation tests using TypeScript and Protractor
+* Led a team which transitioned from TFS SCM and build tools to GitHub and Jenkins
+* Implemented wireframes and designs using HTML5 and SASS
+* Mentored junior developers through code reviews and promoting best practices
+* Developed processing and execution services focused on scalability and performance
 
 **Consultant at EOS New York**
 March 2018 - December 2018
-* stood up a test network using aws web services
-* used docker containers to reduce spin up time of new servers
-* used mongodb queries to glean meaninful information from large data set
-* built a webapp using ReactJS, ES6, and JSS (CSSinJS)
-* learned about blockchain fundamentals
-* recorded a training video and engaged the community by answering technical questions
+* Stood up a test network using AWS
+* Utilized docker containers to reduce spin up time of new servers
+* Wrote mongodb queries to glean meaningful information from a large data set
+* Built a webapp using ReactJS, ES6, and JSS (CSSinJS)
+* Learned about blockchain fundamentals
+* Recorded a training video and engaged the community by answering technical questions
 
 **Senior Software Engineer at Corvesta Inc.**  
 September 2012 - April 2015  
