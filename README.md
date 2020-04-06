@@ -45,16 +45,13 @@ July 2009 - September 2012
 
 ## Public Projects
 
-**EOS Charge**  
-https://ghoti143.github.io/eoscharge/  
+**[EOS Charge](https://ghoti143.github.io/eoscharge/)**  
 I created a tool under contract for Blockchain producer, EOS New York.  This tool scraped data from a MongoDB database and rendered the data in a responsive React-based website.  [Source code available](http://github.com/ghoti143/eoscharge).
 
-**EOS Training Video**  
-https://www.youtube.com/watch?v=MI3Me73fJsE
+**[EOS Training Video](https://www.youtube.com/watch?v=MI3Me73fJsE)**  
 I created a training video to assist EOS account holders with securely generating an EOS key pair using official EOS.IO code.
 
-**ANC Explorer**  
-http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave  
+**[ANC Explorer](http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave)**  
 I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
 
 ## Skills
