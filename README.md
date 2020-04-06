@@ -55,7 +55,7 @@ I created a tool that queried data from a MongoDB database and rendered the data
 I created a training video to assist EOS account holders with securely generating a key pair for their EOS account.
 
 **[ANC Explorer](http://www.arlingtoncemetery.mil/Explore-the-Cemetery/Find-a-Grave)**  
-I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. The application I focused on was written in Adobe Flex, communicates with an ESRI ArcGIS Server, and was deployed to the web and multiple onsite kiosks.
+I assisted in the creation of a suite of applications that allows the public to search grave sites at Arlington National Cemetery. While the Adobe Flex version I helped author is no longer live, the JavaScript version accessible at the above link carries forth its legacy.
 
 ## Education
 
