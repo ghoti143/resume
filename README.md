@@ -1,4 +1,4 @@
-*This resume is in markdown format.  View a [live version](http://github.com/ghoti143/resume).*
+*This resume is in markdown format.  View a [live version](http://ghoti143.github.io/resume/).*
 
 # Michael Haggerty
 **Staff Software Engineer at GE Digital**  
