@@ -97,9 +97,3 @@ Relevant Coursework: Object Oriented Software, Differential Equations, Multivari
 > great asset for any organization he seeks to become a part of.
 
 -- Shannon Carr, Owner, SiteVision, Inc, managed Michael at SiteVision, Inc.
-
-> Michael spurred me to excel in my own work when he delivered well-developed and code for me to design
-> a graphical UI around. Michael is an excellent communicator, is adept at software engineering, and is a
-> pleasure to work with on all phases of a project.
-
--- Jeremiah Lewis, Freelancer, Fringe Design, worked directly with Michael at SiteVision, Inc.
