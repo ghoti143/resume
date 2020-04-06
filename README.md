@@ -21,7 +21,7 @@ April 2015 - Present
 * Mentored junior developers through code reviews and promoting best practices
 * Developed processing and execution services focused on scalability and performance
 
-**Consultant at EOS New York**
+**Consultant at EOS New York**  
 March 2018 - December 2018
 * Stood up a test network using **AWS**
 * Utilized Docker containers to reduce spin up time of new servers
