@@ -3,7 +3,7 @@
 # Michael Haggerty
 **Staff Software Engineer at GE Digital**  
 haggertymp@gmail.com  
-540-613-3166
+(540) 613-3166
 
 ## Summary
 I am a Software Engineer focused mainly on web technologies. The artist in me delights in elegant code and beautifully simple design.  The engineer in me strives for good performance and continuous improvement. I enjoy spending time with my family, good coffee, and good books.
