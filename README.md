@@ -12,7 +12,6 @@ I am a Software Engineer focused mainly on web technologies. The artist in me de
 
 **Staff Software Engineer at GE Digital**  
 April 2015 - Present  
-* Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices
 * Built **RESTful APIs** using **C#** and **.NET Core**
 * Built and maintained components written in a mixture of **JavaScript**, **TypeScript**, and **React**
 * Utilized **Docker** containerization to provide consistent development environments
