@@ -14,9 +14,9 @@ I am a Software Engineer focused mainly on web technologies. The artist in me de
 April 2015 - Present  
 * Developed features for the Asset Performance Management software suite using the latest JavaScript libraries and .NET Core webservices
 * Built **RESTful APIs** using **C#** and **.NET Core**
-* Built and maintained components written in a mixture of **JavaScript**, TypeScript, Knockout and **React**
+* Built and maintained components written in a mixture of **JavaScript**, **TypeScript**, and **React**
 * Utilized **Docker** containerization to provide consistent development environments
-* Built UI automation tests using **TypeScript** and **Protractor**
+* Built UI automation tests using TypeScript and **Protractor**
 * Led a team which transitioned from TFS SCM and build tools to **GitHub** and **Jenkins**
 * Implemented wireframes and designs using **HTML5** and **SASS**
 * Mentored junior developers through code reviews and promoting best practices
@@ -42,9 +42,10 @@ September 2012 - April 2015
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
-* Developed custom GIS applications for private sector and government clients including the U.S. Army and Vulcan Materials Company. 
-* Tools used: C#, JavaScript, AS3, Flex, OpenLayers, Swiz, and ArcGIS Server
-* created Python based geoprocessing tools for ArcGIS Server
+* Developed custom GIS applications using ArcGIS suite
+* Wrote REST and SOAP APIs using C# and ASP.NET
+* Developed web client interfaces using JavaScript and Flex
+* Created Python based geoprocessing tools for ArcGIS Server
 
 ## Public Projects
 
