@@ -41,10 +41,10 @@ September 2012 - April 2015
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
 July 2009 - September 2012  
-* Developed custom GIS applications using ArcGIS suite
+* Developed custom GIS applications using **ArcGIS** suite
 * Wrote REST and SOAP APIs using C# and ASP.NET
-* Developed web client interfaces using JavaScript and Flex
-* Created Python based geoprocessing tools for ArcGIS Server
+* Developed web client interfaces using JavaScript and **Flex**
+* Created **Python** based geoprocessing tools for ArcGIS Server
 
 ## Public Projects
 
