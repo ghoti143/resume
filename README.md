@@ -25,19 +25,19 @@ April 2015 - Present
 **Consultant at EOS New York**
 March 2018 - December 2018
 * Stood up a test network using **AWS**
-* Utilized docker containers to reduce spin up time of new servers
-* Wrote mongodb queries to glean meaningful information from a large data set
-* Built a webapp using ReactJS, ES6, and JSS (CSSinJS)
-* Learned about blockchain fundamentals
+* Utilized Docker containers to reduce spin up time of new servers
+* Wrote **MongoDB** queries to glean meaningful information from a large data set
+* Built a webapp using React, **ES6**, and **JSS** (CSSinJS)
+* Learned about **blockchain** fundamentals
 * Recorded a training video and engaged the community by answering technical questions
 
 **Senior Software Engineer at Corvesta Inc.**  
 September 2012 - April 2015  
-* Ported a custom suite of applications from VB6 to ASP.NET MVC4. 
+* Ported a custom suite of applications from VB6 to **ASP.NET MVC4**.
 * Supported legacy codebase written in PL/SQL, VB6 and C#. 
 * Researched emerging JavaScript frameworks
-* Contributed to the open source AngularJS project.
-* Taught training sessions on Express, Node.js, and design patterns
+* Contributed to the open source **AngularJS** project.
+* Taught training sessions on **Express**, **Node.js**, and design patterns
 * Mentored an intern
 
 **Senior GIS Developer at Geographic Information Services, Inc.**  
